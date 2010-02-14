@@ -1,0 +1,9 @@
+This script only works with the http://bleb.org/tv/data/listings/ xml
+files.
+
+Usage:
+
+Create a file: $HOME/.tv_listings/listings
+
+Use the name of the xml file minus the .xml extension for each listing
+you want to retrieve. Separate listings for a new line.
